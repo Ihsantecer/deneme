@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ea44a001-f0e6-441a-b018-d67b13caeaea" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Batch105.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders01_ProgramlamayaGiriş/C01_HelloWorld.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders01_ProgramlamayaGiriş/C02_Variables.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders02_dataTurleri_scanner/C01_Variables.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders02_dataTurleri_scanner/C02_DataTurleri.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders02_dataTurleri_scanner/C02_NonPrimitives.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders02_dataTurleri_scanner/C04_Scanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders02_dataTurleri_scanner/C05_Scanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders02_dataTurleri_scanner/C06_Scanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders02_dataTurleri_scanner/C07_Scanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders02_dataTurleri_scanner/C08_Scanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders03_datacastingWrapperClass/C01_DataCasting.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders03_datacastingWrapperClass/C02_ExpilicitNarrowing.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders03_datacastingWrapperClass/C03_dataCasting.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders03_datacastingWrapperClass/C04_CharDataCasting.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders03_datacastingWrapperClass/C05_WrapperClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders04_matematikselişlemler/C01_DataCasting.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders04_matematikselişlemler/C02_DataCasting.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders04_matematikselişlemler/C03_DataCasting.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders04_matematikselişlemler/C04_RakamlarToplami.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders04_matematikselişlemler/C05_IncrementDecrement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders04_matematikselişlemler/C06_Pre_Post_İncriment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders04_matematikselişlemler/C07_Pre_İncriment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders04_matematikselişlemler/C08_Pre_Post_İncriment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders05_concatenation_operatörler/C01_Concatanation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders05_concatenation_operatörler/C02_LogicalOperators.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders05_concatenation_operatörler/C03_IfStatements.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders06_IfElseStatements/C01_IfStatements.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders06_IfElseStatements/C02_IfStatements.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders06_IfElseStatements/C03_IfElseStatements.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders06_IfElseStatements/C04_IfElseStatement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders06_IfElseStatements/C05_IfElseStatements.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders06_IfElseStatements/C06_IfElseStatements.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders06_IfElseStatements/C07_IfElseStatements.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders06_IfElseStatements/C08_IfElseIfStatements.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders06_IfElseStatements/C09_IfElseStatement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders06_IfElseStatements/C10_IfElseStatements.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders07_NestedIfElseStatements/C01_NestedIfElseStatement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders07_NestedIfElseStatements/C02_NestedIfElseStatements.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders07_NestedIfElseStatements/C03_NestedIfElseStatements.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders07_NestedIfElseStatements/C04_NesteedIfElseStatement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders07_NestedIfElseStatements/C05_NestedIfElseStatements.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders08_ternary_switch/C01_ternary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders08_ternary_switch/C02_ternary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders08_ternary_switch/C03_ternary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders08_ternary_switch/C04_ternary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders08_ternary_switch/C05_ternary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders08_ternary_switch/C06_SwitchCase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders08_ternary_switch/C07_SwitchCase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders08_ternary_switch/C08_SwitchCase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders09_StringManipulations/C01_ToUpperCase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders09_StringManipulations/C02_equals.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders09_StringManipulations/C03_equalsIgnoreCase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders09_StringManipulations/C04_CharAt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders09_StringManipulations/C06_substring.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders09_StringManipulations/C07_substring.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders10_stringManupulation/C01_concatenation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders10_stringManupulation/C02_contains.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders10_stringManupulation/C03_startsWith.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders10_stringManupulation/C04_endWith.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders10_stringManupulation/C05_soru.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders10_stringManupulation/C06_İndexOf.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders10_stringManupulation/C07_Soru.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders10_stringManupulation/C08_lastİndex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders10_stringManupulation/C09_Soru.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders10_stringManupulation/C10_isEmpty.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders11_stringManupulation/C01_nullPointer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders11_stringManupulation/C02_replace.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders11_stringManupulation/C03_replaceAll.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders11_stringManupulation/C04_replaceAll.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders11_stringManupulation/C05_Repeat_Trim.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders11_stringManupulation/C06_Soru.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders11_stringManupulation/C07.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders11_stringManupulation/C8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders12_forLoops/C01_forLoops.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders12_forLoops/C02_forLoops.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders12_forLoops/C03_Faktoryel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders12_forLoops/C04_RakamlarToplamı.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders12_forLoops/C05_DikkatEdilecekler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders12_forLoops/C06_Soru.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders13_NestedForLoop/C01_ForLoop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders13_NestedForLoop/C02_StringTersineCevirme.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders13_NestedForLoop/C03_NestedForLoop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders13_NestedForLoop/C04_NestedForlLoop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders13_NestedForLoop/C05_NestedForLoopüçgen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders13_NestedForLoop/C06_NestedForLoppUcgen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders13_NestedForLoop/C07_MethodOluşturma.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders13_NestedForLoop/C08_MethodOlusturma.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders13_NestedForLoop/C09_MethodKullanma.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders14MethodOlusturma/C01_Carpim.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders14MethodOlusturma/C02_StringConcate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders14MethodOlusturma/C03_StringTerseCevirme.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders14MethodOlusturma/C04_Tekrar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders14MethodOlusturma/C05_SubstringOlustur.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders14MethodOlusturma/C06_Soru.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders14MethodOlusturma/C07_AsalsayiKontrol.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders15_overloading_whileLoop/C01_OverLooding.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders15_overloading_whileLoop/C02_OverLooding.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders15_overloading_whileLoop/C03_WhileLoop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders15_overloading_whileLoop/C04_WhileLoop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders15_overloading_whileLoop/C05_WhileLoop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders15_overloading_whileLoop/C06_WhileLoop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders15_overloading_whileLoop/C07_WhileLoop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders15_overloading_whileLoop/C08_WhileLoop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders16_doWhileLoop/C01_WhileLoop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders16_doWhileLoop/C02_doWhileLoop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders16_doWhileLoop/C03_ŞifreKontrolü.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders16_doWhileLoop/C04_DoWhile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders17_Scop/C01_LocalVariables.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders17_Scop/C02_LocalClassVariables.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders17_Scop/C03_ObjectVariables.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders17_Scop/C05_ObjectVariables.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders18_arrays/C01_Arrays.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders18_arrays/C02_Arrays.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders18_arrays/C03_ArrayElementleriniArtirma.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders18_arrays/C04_ArrayElementleriToplama.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders18_arrays/C05_ArrayElemanArama.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders18_arrays/C06_C06_KullaniciyaArrayOlusturma.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders18_arrays/C07_EnKısaEnUzunKelime.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders19_arrays/C01_ElemanlarıSagaKaydırma.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders19_arrays/C02_EnBuyukEnKuçukElementiBulma.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders19_arrays/C03_MethodlarıKullanma.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders19_arrays/C04_BinarySearch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders19_arrays/C05_StringSplitMethodu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders19_arrays/C06_ArreyeyeniDegerAtama.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders19_arrays/C07_ArrayeYeniElementEkleme.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders19_arrays/C08_ArrayeElemanEklemeMethodu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders19_arrays/C09_KullanicidanDegerAlarakArrayOlusturma.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders20_multiDimensionalArrays/C01_MDA.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders20_multiDimensionalArrays/C02_MDA_ElementleriToplama.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders20_multiDimensionalArrays/C03_MDA_EnUzunKelime.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders20_multiDimensionalArrays/C04_MDA_CiftSayiAdedi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders20_multiDimensionalArrays/C05_MDA_SayilarinCarpimi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders20_multiDimensionalArrays/C06_MDA_Soru.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders20_multiDimensionalArrays/C07_MDA_Soru.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders20_multiDimensionalArrays/C08_MDA_Soru.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders21_arrayLists/C01_ElementEkleme.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders21_arrayLists/C02_TopluElemanEkleme.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders21_arrayLists/C03_contains.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders21_arrayLists/C04_ArraydenTekrarlariSilme.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders21_arrayLists/C05_set.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders21_arrayLists/C06_remove.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders21_arrayLists/C07_indexOf.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders22_arrayLists/C01_OrtalamaninUstundekiNotsayisi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders22_arrayLists/C02_TamBolenlerListesi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders22_arrayLists/C03_ArraysAsList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders22_arrayLists/C04_ForEachLoop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders22_arrayLists/C05_ForEachLoop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders23_constructors/C01_constructor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders23_constructors/DAraba.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders23_constructors/DArabaRunner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders23_constructors/HAraba.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders23_constructors/HArabaRunner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders24_constructors/Araba.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders24_constructors/ArabaRunner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders24_constructors/Rope.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders25_staticKeyword/AHemsire.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders25_staticKeyword/AHemsireRunner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders25_staticKeyword/C03_StaticBlocks.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders25_staticKeyword/Deneme.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders26_passByvalue_immutableClasses/C01_PassByValue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders26_passByvalue_immutableClasses/C02_PassByValueList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders26_passByvalue_immutableClasses/C03_PassByValueArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders26_passByvalue_immutableClasses/C04_PassByvalueList2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders26_passByvalue_immutableClasses/C05_PassByValueArray2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders26_passByvalue_immutableClasses/C06_ImmutableClasses.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders26_passByvalue_immutableClasses/C07_ImmutableString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders27_immutableClasses_DateAndTime/C01_Immutable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders27_immutableClasses_DateAndTime/C02_StringPool.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders27_immutableClasses_DateAndTime/C03_StringPool.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders27_immutableClasses_DateAndTime/C04_LocalDate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders27_immutableClasses_DateAndTime/C05_LocalTime.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders27_immutableClasses_DateAndTime/C06_LocalDateTime.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Batch105/ders27_immutableClasses_DateAndTime/C07_PeriodOf.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders01_ProgramlamayaGiriş/C01_HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders01_ProgramlamayaGiriş/C02_Variables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders02_dataTurleri_scanner/C01_Variables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders02_dataTurleri_scanner/C02_DataTurleri.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders02_dataTurleri_scanner/C02_NonPrimitives.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders02_dataTurleri_scanner/C04_Scanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders02_dataTurleri_scanner/C05_Scanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders02_dataTurleri_scanner/C06_Scanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders02_dataTurleri_scanner/C07_Scanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders02_dataTurleri_scanner/C08_Scanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders03_datacastingWrapperClass/C01_DataCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders03_datacastingWrapperClass/C02_ExpilicitNarrowing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders03_datacastingWrapperClass/C03_dataCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders03_datacastingWrapperClass/C04_CharDataCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders03_datacastingWrapperClass/C05_WrapperClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders04_matematikselişlemler/C01_DataCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders04_matematikselişlemler/C02_DataCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders04_matematikselişlemler/C03_DataCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders04_matematikselişlemler/C04_RakamlarToplami.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders04_matematikselişlemler/C05_IncrementDecrement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders04_matematikselişlemler/C06_Pre_Post_İncriment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders04_matematikselişlemler/C07_Pre_İncriment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders04_matematikselişlemler/C08_Pre_Post_İncriment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders05_concatenation_operatörler/C01_Concatanation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders05_concatenation_operatörler/C02_LogicalOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders05_concatenation_operatörler/C03_IfStatements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders06_IfElseStatements/C01_IfStatements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders06_IfElseStatements/C02_IfStatements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders06_IfElseStatements/C03_IfElseStatements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders06_IfElseStatements/C04_IfElseStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders06_IfElseStatements/C05_IfElseStatements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders06_IfElseStatements/C06_IfElseStatements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders06_IfElseStatements/C07_IfElseStatements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders06_IfElseStatements/C08_IfElseIfStatements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders06_IfElseStatements/C09_IfElseStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders06_IfElseStatements/C10_IfElseStatements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders07_NestedIfElseStatements/C01_NestedIfElseStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders07_NestedIfElseStatements/C02_NestedIfElseStatements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders07_NestedIfElseStatements/C03_NestedIfElseStatements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders07_NestedIfElseStatements/C04_NesteedIfElseStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders07_NestedIfElseStatements/C05_NestedIfElseStatements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders08_ternary_switch/C01_ternary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders08_ternary_switch/C02_ternary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders08_ternary_switch/C03_ternary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders08_ternary_switch/C04_ternary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders08_ternary_switch/C05_ternary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders08_ternary_switch/C06_SwitchCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders08_ternary_switch/C07_SwitchCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders08_ternary_switch/C08_SwitchCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders09_StringManipulations/C01_ToUpperCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders09_StringManipulations/C02_equals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders09_StringManipulations/C03_equalsIgnoreCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders09_StringManipulations/C04_CharAt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders09_StringManipulations/C06_substring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders09_StringManipulations/C07_substring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders10_stringManupulation/C01_concatenation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders10_stringManupulation/C02_contains.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders10_stringManupulation/C03_startsWith.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders10_stringManupulation/C04_endWith.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders10_stringManupulation/C05_soru.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders10_stringManupulation/C06_İndexOf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders10_stringManupulation/C07_Soru.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders10_stringManupulation/C08_lastİndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders10_stringManupulation/C09_Soru.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders10_stringManupulation/C10_isEmpty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders11_stringManupulation/C01_nullPointer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders11_stringManupulation/C02_replace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders11_stringManupulation/C03_replaceAll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders11_stringManupulation/C04_replaceAll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders11_stringManupulation/C05_Repeat_Trim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders11_stringManupulation/C06_Soru.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders11_stringManupulation/C07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders11_stringManupulation/C8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders12_forLoops/C01_forLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders12_forLoops/C02_forLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders12_forLoops/C03_Faktoryel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders12_forLoops/C04_RakamlarToplamı.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders12_forLoops/C05_DikkatEdilecekler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders12_forLoops/C06_Soru.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders13_NestedForLoop/C01_ForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders13_NestedForLoop/C02_StringTersineCevirme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders13_NestedForLoop/C03_NestedForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders13_NestedForLoop/C04_NestedForlLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders13_NestedForLoop/C05_NestedForLoopüçgen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders13_NestedForLoop/C06_NestedForLoppUcgen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders13_NestedForLoop/C07_MethodOluşturma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders13_NestedForLoop/C08_MethodOlusturma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders13_NestedForLoop/C09_MethodKullanma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders14MethodOlusturma/C01_Carpim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders14MethodOlusturma/C02_StringConcate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders14MethodOlusturma/C03_StringTerseCevirme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders14MethodOlusturma/C04_Tekrar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders14MethodOlusturma/C05_SubstringOlustur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders14MethodOlusturma/C06_Soru.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders14MethodOlusturma/C07_AsalsayiKontrol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders15_overloading_whileLoop/C01_OverLooding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders15_overloading_whileLoop/C02_OverLooding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders15_overloading_whileLoop/C03_WhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders15_overloading_whileLoop/C04_WhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders15_overloading_whileLoop/C05_WhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders15_overloading_whileLoop/C06_WhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders15_overloading_whileLoop/C07_WhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders15_overloading_whileLoop/C08_WhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders16_doWhileLoop/C01_WhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders16_doWhileLoop/C02_doWhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders16_doWhileLoop/C03_ŞifreKontrolü.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders16_doWhileLoop/C04_DoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders17_Scop/C01_LocalVariables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders17_Scop/C02_LocalClassVariables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders17_Scop/C03_ObjectVariables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders17_Scop/C05_ObjectVariables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders18_arrays/C01_Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders18_arrays/C02_Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders18_arrays/C03_ArrayElementleriniArtirma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders18_arrays/C04_ArrayElementleriToplama.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders18_arrays/C05_ArrayElemanArama.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders18_arrays/C06_C06_KullaniciyaArrayOlusturma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders18_arrays/C07_EnKısaEnUzunKelime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders19_arrays/C01_ElemanlarıSagaKaydırma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders19_arrays/C02_EnBuyukEnKuçukElementiBulma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders19_arrays/C03_MethodlarıKullanma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders19_arrays/C04_BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders19_arrays/C05_StringSplitMethodu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders19_arrays/C06_ArreyeyeniDegerAtama.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders19_arrays/C07_ArrayeYeniElementEkleme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders19_arrays/C08_ArrayeElemanEklemeMethodu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders19_arrays/C09_KullanicidanDegerAlarakArrayOlusturma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders20_multiDimensionalArrays/C01_MDA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders20_multiDimensionalArrays/C02_MDA_ElementleriToplama.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders20_multiDimensionalArrays/C03_MDA_EnUzunKelime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders20_multiDimensionalArrays/C04_MDA_CiftSayiAdedi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders20_multiDimensionalArrays/C05_MDA_SayilarinCarpimi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders20_multiDimensionalArrays/C06_MDA_Soru.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders20_multiDimensionalArrays/C07_MDA_Soru.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders20_multiDimensionalArrays/C08_MDA_Soru.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders21_arrayLists/C01_ElementEkleme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders21_arrayLists/C02_TopluElemanEkleme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders21_arrayLists/C03_contains.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders21_arrayLists/C04_ArraydenTekrarlariSilme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders21_arrayLists/C05_set.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders21_arrayLists/C06_remove.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders21_arrayLists/C07_indexOf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders22_arrayLists/C01_OrtalamaninUstundekiNotsayisi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders22_arrayLists/C02_TamBolenlerListesi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders22_arrayLists/C03_ArraysAsList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders22_arrayLists/C04_ForEachLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders22_arrayLists/C05_ForEachLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders23_constructors/C01_constructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders23_constructors/DAraba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders23_constructors/DArabaRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders23_constructors/HAraba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders23_constructors/HArabaRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders24_constructors/Araba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders24_constructors/ArabaRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders24_constructors/Rope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders25_staticKeyword/AHemsire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders25_staticKeyword/AHemsireRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders25_staticKeyword/C03_StaticBlocks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders25_staticKeyword/Deneme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders26_passByvalue_immutableClasses/C01_PassByValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders26_passByvalue_immutableClasses/C02_PassByValueList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders26_passByvalue_immutableClasses/C03_PassByValueArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders26_passByvalue_immutableClasses/C04_PassByvalueList2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders26_passByvalue_immutableClasses/C05_PassByValueArray2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders26_passByvalue_immutableClasses/C06_ImmutableClasses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders26_passByvalue_immutableClasses/C07_ImmutableString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders27_immutableClasses_DateAndTime/C01_Immutable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders27_immutableClasses_DateAndTime/C02_StringPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders27_immutableClasses_DateAndTime/C03_StringPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders27_immutableClasses_DateAndTime/C04_LocalDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders27_immutableClasses_DateAndTime/C05_LocalTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders27_immutableClasses_DateAndTime/C06_LocalDateTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ders27_immutableClasses_DateAndTime/C07_PeriodOf.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FJmfZu1umse4xGsnohytz6bcSW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.C02_Maps">
+    <configuration name="C01_EntrySet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ders46_maps.C01_EntrySet" />
+      <module name="Batch105" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ders46_maps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C02_Iterator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ders41_iterator.C02_Iterator" />
+      <module name="Batch105" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ders41_iterator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C02_Maps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ders44_maps.C02_Maps" />
+      <module name="Batch105" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ders44_maps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C03_Iterator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ders41_iterator.C03_Iterator" />
+      <module name="Batch105" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ders41_iterator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C04_LinkedListQueueDataTuru" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ders42_collections.C04_LinkedListQueueDataTuru" />
+      <module name="Batch105" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ders42_collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.C02_Maps" />
+        <item itemvalue="Application.C02_Iterator" />
+        <item itemvalue="Application.C01_EntrySet" />
+        <item itemvalue="Application.C04_LinkedListQueueDataTuru" />
+        <item itemvalue="Application.C03_Iterator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea44a001-f0e6-441a-b018-d67b13caeaea" name="Changes" comment="" />
+      <created>1664218664653</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664218664653</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ders06_IfElseStatements/C08_IfElseIfStatements.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ders35_exceptions/C04_TryCatch.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/Desktop/Practice-1/practiceRegular/day05/C06_IfStatement.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
